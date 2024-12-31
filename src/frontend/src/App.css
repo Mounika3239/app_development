@@ -1,0 +1,64 @@
+.bg{
+  background-image: url('https://files.oaiusercontent.com/file-UhFuZZayZj8bfaL1CHHYsg?se=2024-11-25T05%3A47%3A47Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Df20daaa8-4206-42e2-80ad-4008c319ee5c.webp&sig=c7NVo4Pm4OrGts7xJyPDe7AE%2BYduPJ7MphikSqabqUc%3D');
+  /* background-image: url('https://www.better2know.co.uk/blog/wp-content/uploads/2023/08/towfiqu-barbhuiya-ZJaK9jQXeDA-unsplash-1024x683.jpg'); */
+  background-size: cover; /* Ensures the image covers the entire background */
+  background-attachment: fixed; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+}
+
+.myfont{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+}
+ 
+.bg-pink {
+  background-color: #f51423; 
+  color: #FFFFFF; 
+}
+
+.bg-pink:hover {
+  background-color: #e85761; 
+}
+
+.bg-secondary {
+  background-color: #6f271a; 
+  color: #FFFFFF; 
+}
+
+.bg-secondary:hover {
+  background-color: #e85761; 
+}
+
+
+.bg-form{
+  background-color: rgba(245, 245, 245, 0.961)
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.stylefont{
+  font-weight: bolder;
+  font-size: 40px;
+}
+
+.box{
+  height: 270px;
+  width: 270px;
+}
+
+label{
+  display: block;
+  padding: 10px;
+
+}
+
+.myshadow {
+  box-shadow: rgba(74, 74, 157, 0.2) 0px 20px 20px -10px, /* Reduced blur and spread */
+              rgba(14, 14, 14, 0.2) 0px 15px 30px -15px, /* Reduced intensity */
+              rgba(10, 38, 65, 0.25) 0px -1px 4px 0px inset; /* Softer inset shadow */
+}
+
+
