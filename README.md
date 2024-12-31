@@ -1,6 +1,6 @@
 # Diabetes Risk Analyzer
 
-![Real Estate Data UI](images/UI_1.png "Sample")
+![Diabetes UI](src/src/UI_1.png "Sample")
 The Diabetes Risk Analyzer web application utilizes a **React UI** for the frontend and a **Flask API server** for the backend.
 ---
 
