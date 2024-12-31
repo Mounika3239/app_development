@@ -2,7 +2,7 @@
 
 ![Diabetes UI](src/frontend/UI_2.png "Sample_2")
 
-## The Diabetes Risk Analyzer web application utilizes a **React UI** for the frontend and a **Flask API server** for the backend.
+### The Diabetes Risk Analyzer web application utilizes a **React UI** for the frontend and a **Flask API server** for the backend.
 ---
 
 ## 🚀 **Getting Started**
